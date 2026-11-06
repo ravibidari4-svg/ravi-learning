@@ -3,7 +3,4 @@ ravi-learning
 Databricks Learning Project
 
 Topics:
-- Bronze Layer
-- Silver Layer
-- Gold Layer
-- SCD Type 1
+feature/scd2 practice
